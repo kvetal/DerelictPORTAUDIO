@@ -1,6 +1,6 @@
 DerelictPORTAUDIO
 
-Dynamic bindings to PortAudio cross-platform, open-source, audio I/O library.
+Dynamic bindings to PortAudio cross-platform, open-source, audio I/O library.<br>
 PortAudio site http://portaudio.com/
 
 
