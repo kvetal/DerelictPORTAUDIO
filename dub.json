@@ -1,0 +1,27 @@
+{
+	"authors": [
+		"Vitaly Kolyvanov"
+	],
+	"configurations": [
+		{
+			"name": "library",
+			"targetType": "library"
+		}
+	],
+	"importPaths": [
+		"source/"
+	],
+	"name": "derelict-portaudio",
+	"version": "1.0.0-alfa.1",
+	"license": "Boost",
+	"targetName": "DerelictPORTAUDIO",
+	"description": "A dynamic binding to the PortAudio libraries.",
+	"homepage": "https://github.com/kvetal/DerelictPORTAUDIO",
+	"targetPath": "lib",
+	"dependencies": {
+		"derelict-util": ">=3.0.0-beta.1 <3.1.0-0"
+	},
+	"sourcePaths": [
+		"source/"
+	]
+}
