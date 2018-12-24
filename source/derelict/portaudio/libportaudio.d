@@ -178,7 +178,7 @@ extern(C)
 	alias da_Pa_Terminate = PaError function();
 	alias da_Pa_GetVersion = int function();
 	alias da_Pa_GetVersionText = const char* function();
-	alias da_Pa_GetVersionInfo = const PaVersionInfo* function(); //Не работает
+	alias da_Pa_GetVersionInfo = const PaVersionInfo* function();
 	alias da_Pa_GetErrorText = const char* function(PaError);
 	alias da_Pa_GetHostApiCount = PaHostApiIndex function();
 	alias da_Pa_GetDefaultHostApi = PaHostApiIndex function();
